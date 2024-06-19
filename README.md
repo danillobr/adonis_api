@@ -4,13 +4,13 @@
 <h4>Avisos: </4>
 <ul>
   <li>
-    Versão do node: <i>v14.21.3</i>
+    Versão do node: <b>v14.21.3</b>
   </li>
   <li>
-    Instalar dependências: <i>npm i --f</i>
+    Instalar dependências: <b>npm i --f</b>
   </li>
   <li>
-    Run no projeto: <i>node ace serve/i>
+    Run no projeto: <b>node ace serve</b>
   </li>
 </ul>
 Trabalho de Física
