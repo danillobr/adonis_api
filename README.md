@@ -13,7 +13,8 @@
     Gerar key da api: <b>node ace generate:key</b>;
   </li>
    <li>
-    Crie um arquivo chando .env com as mensagem informações do arquivo
+    Crie um arquivo chando
+    <i>.env</i>. com as mesmas informações do arquivo
     <i>.env.example</i> e substitua o valor de
     <i>APP_KEY</i> pela key gerada;
   </li>
