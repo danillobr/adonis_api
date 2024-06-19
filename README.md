@@ -1,6 +1,6 @@
 # API em AdonisJs
 <br/>
-<h3>Simula o Fluxo de um Campo Magnético atuando sobre uma chapa de metal.</h3>
+<h3>Api backend em AdonisJs</h3>
 <h4>Avisos: </4>
 <ul>
   <li>
@@ -13,4 +13,3 @@
     Run no projeto: <b>node ace serve</b>
   </li>
 </ul>
-Trabalho de Física
